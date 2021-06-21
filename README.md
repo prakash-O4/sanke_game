@@ -16,7 +16,7 @@ Here to use this application users need to swap to give the directions to the sn
 
 ## Game sample
 
-![](images/game_image.png)\
+![](images/game_image.png)
 ![](images/game_over.png)
 
 ## Note
